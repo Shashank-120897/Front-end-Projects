@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Manrope';
+    src: url('/static/Manrope-VariableFont_wght.woff') format('woff');
+}
+
+:root {
+
+    --font1: 'Manrope';
+    --gradient-text: linear-gradient(89.97deg, #ae67fa 1.84%, orange);
+    --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, orange);
+
+    --color-bg: #040c18;
+    --color-footer: #031b34;
+    --color-blog: #042c54;
+    --color-text: #81afdd;
+    --color-subtext: #ff8a71;
+}
